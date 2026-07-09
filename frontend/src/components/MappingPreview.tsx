@@ -50,7 +50,7 @@ export default function MappingPreview({ headers, crmFields, onMappingChange }: 
         fontSize: '1.1rem',
         marginBottom: '12px',
         display: 'flex',
-        align-items: 'center',
+        alignItems: 'center',
         gap: '8px',
         color: 'var(--text-primary)'
       }}>
