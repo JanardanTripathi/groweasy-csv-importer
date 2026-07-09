@@ -1,0 +1,7 @@
+date_created,fullname,mail_addr,country_prefix,cell_no,firm_name,locality,state_name,country,assignee,raw_status,notes,lead_origin,time_of_possession,remarks
+2026-05-13 14:20:48,John Doe,john.doe@example.com,+91,9876543210,GrowEasy,Mumbai,Maharashtra,India,test@gmail.com,Follow up,Client is asking to reschedule demo,leads_on_demand,,
+2026-05-13 14:25:30,Sarah Johnson,sarah.johnson@example.com,+91,9876543211,Tech Solutions,Bangalore,Karnataka,India,test@gmail.com,Busy/Call again,"Person was busy, will try again next week",meridian_tower,,
+2026-05-13 14:30:15,Rajesh Patel,rajesh.patel@example.com,+91,9876543212,Startup Inc,Delhi,Delhi,India,test@gmail.com,Not Interested,Not interested in our services,eden_park,,
+2026-05-13 14:35:22,Priya Singh,priya.singh@example.com,+91,9876543213,Enterprise Corp,Pune,Maharashtra,India,test@gmail.com,Deal Closed,"Deal closed, onboarding in progress",varah_swamy,,
+2026-05-13 14:40:00,Amit Kumar,amit.kumar@example.com; amit2@example.com,+91,9876543214; 9988776655,Alpha Logistics,Chennai,Tamil Nadu,India,test@gmail.com,Follow up,Wants pricing list,,Ready to move,
+2026-05-13 14:45:00,No Contact Details Info,,,,No Contact Co,Hyderabad,Telangana,India,test@gmail.com,New,This record lacks phone and email so it should be skipped,,,

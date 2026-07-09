@@ -1,0 +1,28 @@
+.toggleBtn {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  width: 40px;
+  height: 40px;
+  box-shadow: var(--card-shadow);
+}
+
+.toggleBtn:hover {
+  background: var(--border-color);
+  transform: scale(1.05);
+}
+
+.icon {
+  transition: transform 0.3s ease;
+}
+
+.toggleBtn:active .icon {
+  transform: rotate(30deg);
+}
